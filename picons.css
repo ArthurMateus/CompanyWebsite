@@ -1,0 +1,8 @@
+.icons img {
+    height: 25px;
+    width: 25px;
+    border: 1px;
+}
+.icons img:hover {
+    cursor: pointer;
+}

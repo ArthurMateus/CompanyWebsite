@@ -1,0 +1,19 @@
+
+article {
+            background-color:black;
+            opacity: 0.92;
+            float: center;
+            width: 100%;
+            height: auto;
+            padding: 20px;
+        }
+        navbar-nav 
+        > li>a{
+            color: white;
+          }
+          .navbar-nav > li:hover >a,
+          .navbar-nav > li.active >a
+          {
+            color: green;
+          }
+          
